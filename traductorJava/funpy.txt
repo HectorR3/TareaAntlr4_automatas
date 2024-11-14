@@ -1,0 +1,5 @@
+def dividir(a,b):
+    result=a/b
+    return result
+
+print(dividir(5,10))
